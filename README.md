@@ -2,11 +2,11 @@ video tutorial: https://www.youtube.com/watch?v=3yA18aZJRlg
 
 About: This is a video about Auto Generate candid file
 Level: Beginner 
-00:23 add the test snippet
-00:49 add cargo dependces
-01:04 test command in termnil
-01:28 add the candid type
-02:01 add candid type to structs
+- 00:23 add the test snippet
+- 00:49 add cargo dependces
+- 01:04 test command in termnil
+- 01:28 add the candid type
+- 02:01 add candid type to structs
 
 quick rust start: https://internetcomputer.org/docs/current/developer-docs/backend/rust/rust-quickstart
 
